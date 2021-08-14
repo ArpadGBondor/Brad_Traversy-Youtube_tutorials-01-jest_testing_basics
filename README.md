@@ -1,6 +1,6 @@
 # Brad Traversy - Youtube tutorials 01 - Jest Crash Course
 
-## [Tutorial vidoe on Youtube](https://youtu.be/7r4xVDI2vho)
+## [Tutorial video on Youtube](https://youtu.be/7r4xVDI2vho)
 
 ### Run:
 - "npm i" to download node_modules
